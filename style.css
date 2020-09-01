@@ -8,25 +8,20 @@ body{
     background-color: powderblue;
 }
 
-.modal-wrapper{
-    width: 100vw;
-    height: 100vh;
-    background-color: rgba(0, 0, 0, .5);
-    position: absolute;
-    top: 0;
-    left: 0;
+.container-wrapper{
     display: flex;
-    justify-content: center;
-    align-items: center;
 
-    visibility  : hidden;
+}
+
+.timetable{
+    width: 100%;
 }
 
 
 .container{
     background-color: #fff;
     padding: 2rem;
-    margin: 0 15rem;
+    margin: 0 10rem;
     
 }
 
@@ -35,7 +30,7 @@ body{
     .container{
         background-color: #fff;
         padding: 2rem;
-        margin: 0 5rem;
+        margin: 0 2rem;
     }
 }
 
@@ -43,8 +38,16 @@ body{
     .container{
         background-color: #fff;
         padding: 2rem;
-        margin: 0 3rem;
+        margin: 0 0;
     }
+}
+
+.container1{
+    margin-right: 0;
+    align-self: flex-start;
+}
+.container2{
+    margin-left: 0;
 }
 
 
@@ -65,11 +68,7 @@ body{
 }
 
 h4.class-title{
-    flex-grow: 1;
     text-align: center;
-    margin: 2rem 0 0 0 ;
-    margin-block-start: 1em;
-    margin-block-end: 1em;
     font-weight: bolder;
     font-size: 2rem;
     height: .5rem;
@@ -80,6 +79,7 @@ h4.class-title{
     font-size: 1rem;
     margin-block-start: 1em;
     margin-block-end: 1em;
+    margin-top: 3rem;
 }
 
 .links-wrapper{
