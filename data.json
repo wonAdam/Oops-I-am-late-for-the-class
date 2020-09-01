@@ -1,0 +1,106 @@
+{
+    "classes":[
+        {
+            "name":"한국의 문화유산",
+            "description": "",
+            "href":[
+                {
+                    "name":"강의 개요",
+                    "url":"https://cn2.hongik.ac.kr/course/view.php?id=492"
+                }
+            ]
+
+        },
+        {
+            "name":"인간심리의이해",
+            "description": "",
+            "href":[
+                {
+                    "name":"시청 현황",
+                    "url":"https://cn2.hongik.ac.kr/report/ubcompletion/user_progress_a.php?id=4606"
+                }
+            ]
+
+        },
+        {
+            "name":"이산수학",
+            "description": "비디오&오디오 필요, ",
+            "href":[
+                {
+                    "name":"웹엑스",
+                    "url":"http://hongik.webex.com/meet/rhanhahongik"
+                }
+            ]
+
+        },
+        {
+            "name":"운영체제",
+            "description": "",
+            "href":[
+                {
+                    "name":"웹엑스",
+                    "url":"https://cn2.hongik.ac.kr/mod/url/view.php?id=18066"
+                }
+            ]
+
+        },
+        {
+            "name":"기초데이터베이스 ",
+            "description": "",
+            "href":[
+                {
+                    "name":"웹엑스",
+                    "url":"https://hongik.webex.com/meet/young.yoon"
+                }
+            ]
+
+        },
+        {
+            "name":"네트워크프로그래밍",
+            "description": "유튜브 스트리밍",
+            "href":[
+                {
+                    "name":"출석",
+                    "url":"at.hongik.ac.kr"
+                },
+                {
+                    "name":"공지사항",
+                    "url":"https://cn2.hongik.ac.kr/mod/ubboard/view.php?id=1471"
+                }
+            ]
+
+        },
+        {
+            "name":"강의",
+            "description": "",
+            "href":[
+
+            ]
+
+        },
+        {
+            "name":"강의",
+            "description": "",
+            "href":[
+
+            ]
+
+        },
+        {
+            "name":"강의",
+            "description": "",
+            "href":[
+
+            ]
+
+        },
+        {
+            "name":"강의",
+            "description": "",
+            "href":[
+
+            ]
+
+        }
+    ]
+}
