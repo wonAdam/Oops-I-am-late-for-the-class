@@ -2,7 +2,7 @@
     "classes":[
         {
             "name":"소프트웨어공학",
-            "description": "",
+            "description": "김한규 교수님",
             "href":[
                 {
                     "name":"",
@@ -13,29 +13,29 @@
         },
         {
             "name":"수치해석",
-            "description": "",
+            "description": "박지헌 교수님",
             "href":[
                 {
-                    "name":"",
-                    "url":""
+                    "name":"웹엑스",
+                    "url":"https://hongik.webex.com/meet/jhpark"
                 }
             ]
 
         },
         {
             "name":"인공지능",
-            "description": "",
+            "description": "박준 교수님",
             "href":[
                 {
-                    "name":"",
-                    "url":""
+                    "name":"웹엑스",
+                    "url":"https://hongik.webex.com/meet/jpark"
                 }
             ]
 
         },
         {
             "name":"확률및통계",
-            "description": "",
+            "description": "배성일 교수님",
             "href":[
                 {
                     "name":"웹엑스",
@@ -46,7 +46,7 @@
         },
         {
             "name":"시스템프로그래밍",
-            "description": "",
+            "description": "김선일 교수님",
             "href":[
                 {
                     "name":"웹엑스",
@@ -57,22 +57,22 @@
         },
         {
             "name":"HCI윈도우즈프로그래밍",
-            "description": "",
+            "description": "이혜영 교수님",
             "href":[
                 {
-                    "name":"",
-                    "url":""
+                    "name":"웹엑스",
+                    "url":"https://hongik.webex.com/meet/leeh"
                 }
             ]
 
         },
         {
             "name":"졸업프로젝트",
-            "description": "",
+            "description": "박지헌 교수님",
             "href":[
                 {
-                    "name":"",
-                    "url":""
+                    "name":"웹엑스",
+                    "url":"https://hongik.webex.com/meet/jhpark"
                 }
             ]
 
