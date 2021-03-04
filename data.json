@@ -57,11 +57,15 @@
         },
         {
             "name":"HCI윈도우즈프로그래밍",
-            "description": "이혜영 교수님",
+            "description": "이혜영 교수님 \nleeh.compe@gmail.com",
             "href":[
                 {
                     "name":"웹엑스",
                     "url":"https://hongik.webex.com/meet/leeh"
+                },
+                {
+                    "name":"ToSlide",
+                    "url":"https://toslide.com/index_student_online.html"
                 }
             ]
 
