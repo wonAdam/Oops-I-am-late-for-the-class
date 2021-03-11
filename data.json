@@ -35,11 +35,15 @@
         },
         {
             "name":"확률및통계",
-            "description": "배성일 교수님",
+            "description": "배성일 교수님, 과제는 드롭박스에 올라옴",
             "href":[
                 {
                     "name":"웹엑스",
                     "url":"https://hongik.webex.com/meet/pae"
+                },
+                {
+                    "name":"과제",
+                    "url":"https://www.dropbox.com/sh/m4aqcfzf0ww5pp5/AACdjFvG3CDTQRuyV-d0TgY2a?dl=0"
                 }
             ]
 
